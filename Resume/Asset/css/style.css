@@ -1,0 +1,15 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.resume-sidebar {
+    background: #202A36;
+}
+
+.profile-photo {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border: 1px solid white;
+}
